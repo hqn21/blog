@@ -166,12 +166,16 @@ export const themeConfig: ThemeConfig = {
         url: '/atom.xml', // or /rss.xml
       },
       {
+        name: 'Email',
+        url: 'contact@haoquan.me',
+      },
+      {
         name: 'GitHub',
         url: 'https://github.com/hqn21',
       },
       {
-        name: 'Email',
-        url: 'contact@haoquan.me',
+        name: 'LinkedIn',
+        url: 'https://www.linkedin.com/in/haoquanliu/',
       },
       // {
       //   name: 'X',
